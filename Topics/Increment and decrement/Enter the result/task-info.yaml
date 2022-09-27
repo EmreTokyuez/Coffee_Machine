@@ -1,0 +1,22 @@
+type: number
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 5
+    placeholder_text: type your solution here
+    initial_state:
+      length: 5
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6584#comment
+status: Failed
+feedback:
+  message: Input text is not number
+  time: Fri, 02 Sep 2022 14:21:21 UTC
+record: -1

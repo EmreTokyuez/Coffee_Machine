@@ -1,0 +1,165 @@
+[1;31m
+Start test 1[0m
+3Write how many ml of water the coffee machine has:
+> 300
+2Write how many ml of milk the coffee machine has:
+> 65
+=Write how many grams of coffee beans the coffee machine has:
+> 111
+-Write how many cups of coffee you will need:
+> 1
+&Yes, I can make that amount of coffee
+[1;31m
+Start test 2[0m
+3Write how many ml of water the coffee machine has:
+> 600
+2Write how many ml of milk the coffee machine has:
+> 153
+=Write how many grams of coffee beans the coffee machine has:
+> 100
+-Write how many cups of coffee you will need:
+> 1
+?Yes, I can make that amount of coffee (and even2more than that
+[1;31m
+Start test 3[0m
+3Write how many ml of water the coffee machine has:
+> 1400
+2Write how many ml of milk the coffee machine has:
+> 150
+=Write how many grams of coffee beans the coffee machine has:
+> 100
+-Write how many cups of coffee you will need:
+> 1
+?Yes, I can make that amount of coffee (and even2more than that
+[1;31m
+Start test 4[0m
+3Write how many ml of water the coffee machine has:
+> 1400
+2Write how many ml of milk the coffee machine has:
+> 1500
+=Write how many grams of coffee beans the coffee machine has:
+> 45
+-Write how many cups of coffee you will need:
+> 1
+?Yes, I can make that amount of coffee (and even2more than that
+[1;31m
+Start test 5[0m
+3Write how many ml of water the coffee machine has:
+> 599
+2Write how many ml of milk the coffee machine has:
+> 250
+=Write how many grams of coffee beans the coffee machine has:
+> 200
+-Write how many cups of coffee you will need:
+> 10
+&No, I can make only2 cup(s) of coffee
+[1;31m
+Start test 6[0m
+3Write how many ml of water the coffee machine has:
+	> 345640
+2Write how many ml of milk the coffee machine has:
+> 43423
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 1
+AYes, I can make that amount of coffee (and even867more than that
+[1;31m
+Start test 7[0m
+3Write how many ml of water the coffee machine has:
+	> 345640
+2Write how many ml of milk the coffee machine has:
+	> 434230
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 19246
+)No, I can make only1548 cup(s) of coffee
+[1;31m
+Start test 8[0m
+3Write how many ml of water the coffee machine has:
+> 34564
+2Write how many ml of milk the coffee machine has:
+> 43423
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 19246
+(No, I can make only172 cup(s) of coffee
+[1;31m
+Start test 9[0m
+3Write how many ml of water the coffee machine has:
+> 399
+2Write how many ml of milk the coffee machine has:
+> 112
+=Write how many grams of coffee beans the coffee machine has:
+> 111
+-Write how many cups of coffee you will need:
+> 1
+&Yes, I can make that amount of coffee
+[1;31m
+Start test 10[0m
+3Write how many ml of water the coffee machine has:
+> 2400
+2Write how many ml of milk the coffee machine has:
+> 249
+=Write how many grams of coffee beans the coffee machine has:
+> 100
+-Write how many cups of coffee you will need:
+> 1
+?Yes, I can make that amount of coffee (and even3more than that
+[1;31m
+Start test 11[0m
+3Write how many ml of water the coffee machine has:
+> 1400
+2Write how many ml of milk the coffee machine has:
+> 1500
+=Write how many grams of coffee beans the coffee machine has:
+> 44
+-Write how many cups of coffee you will need:
+> 1
+?Yes, I can make that amount of coffee (and even1more than that
+[1;31m
+Start test 12[0m
+3Write how many ml of water the coffee machine has:
+> 500
+2Write how many ml of milk the coffee machine has:
+> 250
+=Write how many grams of coffee beans the coffee machine has:
+> 200
+-Write how many cups of coffee you will need:
+> 10
+&No, I can make only2 cup(s) of coffee
+[1;31m
+Start test 13[0m
+3Write how many ml of water the coffee machine has:
+> 34564
+2Write how many ml of milk the coffee machine has:
+> 43423
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 1
+AYes, I can make that amount of coffee (and even171more than that
+[1;31m
+Start test 14[0m
+3Write how many ml of water the coffee machine has:
+	> 345640
+2Write how many ml of milk the coffee machine has:
+	> 434230
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 1
+BYes, I can make that amount of coffee (and even1547more than that
+[1;31m
+Start test 15[0m
+3Write how many ml of water the coffee machine has:
+	> 345640
+2Write how many ml of milk the coffee machine has:
+> 43423
+=Write how many grams of coffee beans the coffee machine has:
+> 23234
+-Write how many cups of coffee you will need:
+> 19246
+(No, I can make only868 cup(s) of coffee

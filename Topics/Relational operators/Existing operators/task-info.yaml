@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ==
+- text: =
+- text: '&lt;='
+- text: '&lt;&gt;'
+- text: '!='
+- text: '&gt;&gt;&gt;'
+- text: '&gt;'
+- text: '&lt;&lt;'
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2053#comment
+status: Solved
+record: -1
+local_check: false
